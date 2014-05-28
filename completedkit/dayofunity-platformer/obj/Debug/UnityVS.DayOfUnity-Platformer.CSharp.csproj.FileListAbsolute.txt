@@ -1,0 +1,9 @@
+C:\projects\DayOfUnity-Platformer\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\projects\DayOfUnity-Platformer\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\projects\DayOfUnity-Platformer\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\projects\DayOfUnity-Platformer\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\projects\DayOfUnity-Platformer\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\projects\DayOfUnity-Platformer\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\projects\DayOfUnity-Platformer\obj\Debug\UnityVS.DayOfUnity-Platformer.CSharp.csprojResolveAssemblyReference.cache
+C:\projects\DayOfUnity-Platformer\obj\Debug\Assembly-CSharp.dll
+C:\projects\DayOfUnity-Platformer\obj\Debug\Assembly-CSharp.pdb
